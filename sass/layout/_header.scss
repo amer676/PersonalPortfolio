@@ -1,0 +1,50 @@
+// .header {
+//   // height: 100vh;
+//   background-color: $color-black;
+//   position: relative;
+// }
+.name {
+  font-family: Teko;
+  color: $color-accent;
+  font-size: 3rem;
+  margin-top: 12%;
+  margin-left: 12%;
+}
+.amer {
+  font-family: Teko;
+  color: $color-white;
+  margin-left: 15%;
+  font-size: 10rem;
+  margin-top: -2%;
+}
+
+.designer {
+  font-family: Montserrat;
+  color: $color-white;
+  font-size: 2.3rem;
+  color: $color-accent;
+  margin-left: 14%;
+  // margin-top: -10%;
+}
+.scrldwn {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 300;
+  font-family: montserrat;
+  letter-spacing: 0.1rem;
+  color: $color-accent;
+  margin-top: 15%;
+}
+.arrowdwn {
+  //   height: 50px;
+  margin-top: 3%;
+  margin-bottom: 5%;
+  margin-left: 48.8%;
+  img {
+    width: 40px;
+    height: 20px;
+  }
+}
+a {
+  color: white;
+}

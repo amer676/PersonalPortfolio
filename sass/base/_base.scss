@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+html {
+  // height: 100%;
+  //1 rem definition
+  font-size: 62.5%;
+}
+
+body {
+  // height: 100%;
+  box-sizing: inherit;
+}

@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Teko:wght@300;400;500;600;700&display=swap");
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+@import "base/starsbg";
+@import "base/animations";
+
+@import "components/collection";
+@import "components/extrastyling";
+@import "components/mailing";
+
+@import "layout/footer";
+@import "layout/grid";
+@import "layout/header";
+@import "layout/about";
+@import "layout/navigation";
+
+@import "pages/home";
